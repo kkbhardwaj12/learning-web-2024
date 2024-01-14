@@ -1,0 +1,13 @@
+1) github.com --> acc creation
+2) git scm --> website --> download  software and install
+3) git -v --> make sure you have installed s/website
+
+-----------------
+A) create a repo on github
+
+b) local pc --> git clone address
+c) one.tx --> added a new file
+d) git status ---> current status
+e) git add one.txt / git add .  --> add (staging mode)
+f) git commit -m "i have createdone txt file"
+g) git push origin main
